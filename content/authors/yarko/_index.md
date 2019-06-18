@@ -49,7 +49,7 @@ social:
 - icon: github
   icon_pack: fab
   # link: https://github.com/yarko
-  link: https://gitlab.com/yarko
+  link: https://gitlab.com/yarkot
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,11 +68,10 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-
-
-
+Early on, I began reading Scientific American and Psychology Today.
+Broadly, that still describes my interests.
 I have been programming,
-starting with FORTRAN (1968),
+first with FORTRAN (1977),
 C (1979),
 and Python (1999).
 Before Python, I disliked perl, and liked Icon, ksh, awk (awkcc).
@@ -83,12 +82,12 @@ team processes
 and
 architectural methods.
 
-I have worked with psychologists for over 25 years in team dynamics
-and skills.
-I received a Motorola award for a
-formal technical review program delivered to more than 1,000 engineers
-whose core was team skills.
-Not surprisingly, systems architecture also involves
+I've worked with psychologists for over 25 years in team dynamics
+and team skills.
+In 1995, I received a Motorola award for a
+Formal Technical Review program 
+whose core was team skills (over 1,000 engineers).
+Systems architecture also involves
 clear, careful communmication with the problem space.
 Around the time Agile was getting started, I ran a team using
 an architectural pattern based on team skills, but applied
