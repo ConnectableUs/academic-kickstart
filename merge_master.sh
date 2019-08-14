@@ -7,3 +7,9 @@
 #
 git checkout --patch master
 
+# then check that there are any new files to checkout from master:
+git ls-tree -r --name-only master > tmp/master.list
+git ls-tree -r --name-only connectable > tmp/connectable.list
+# red-master files are the ones to checkout
+gdiff tmp/master.list tmp/connectable.list
+
