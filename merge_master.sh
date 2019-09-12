@@ -19,4 +19,6 @@ git ls-tree -r --name-only master > tmp/master.list
 git ls-tree -r --name-only connectable > tmp/connectable.list
 # red-master files are the ones to checkout
 gdiff tmp/master.list tmp/connectable.list
+# then to copy new files to this branch, from this branch:
+git co master -- file_name.whatever  # where "master" is from-branch
 
