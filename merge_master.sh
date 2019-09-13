@@ -22,3 +22,5 @@ gdiff tmp/master.list tmp/connectable.list
 # then to copy new files to this branch, from this branch:
 git co master -- file_name.whatever  # where "master" is from-branch
 
+# note: gimp'd images use ubuntu-medium-italic font @ 138pts
+
