@@ -107,7 +107,7 @@ communications equipment, and mobile devices
 at Unisys, Bell Labs, Motorola, University of Chicago,
 and a few other places.
 
-I have a BSEC in Computer Engineering from the University of Arizona,
+I have a BSEE in Computer Engineering from the University of Arizona,
 when Dr. Gerald Petersen was developing a hardware description language.
 As an undergraduate, I ran a Unix V6 lab for classes and
 research.
