@@ -28,6 +28,12 @@
   url = "#contact"
   weight = 60
 
+  [[main]]
+  pre = "<i class=\"fas fa-book pr-1\" style=\"color: #00d1b2;\"></i>"
+  name = "Workshops"
+  url = "workshops/"
+  weight = 10
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]

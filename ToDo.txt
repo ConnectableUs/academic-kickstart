@@ -1,0 +1,3 @@
+/config:
+ - select connectable.us logo (params.toml)
+ - dig into "edit_page" part of this (if not for Connectable, certainly for UUMann)
