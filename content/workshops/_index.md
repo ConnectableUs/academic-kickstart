@@ -25,11 +25,6 @@ Learn [why Academic was created and the benefits of using it to power your site]
 
 To get the most out of Academic, start by reviewing a few introductory topics:
 
-[Setup]({{< relref "install.md" >}}) - Install Academic for your platform.
-
-[Quick Start]({{< relref "get-started.md" >}}) and [Settings]({{< relref "customization.md" >}}) - Customize your website.
-
-[Add content]({{< relref "managing-content.md" >}}) - Add content to your homepage such as blog posts, projects, talks, or publications.
 
 [Community](http://discuss.gohugo.io) - Connect with the Academic and Hugo community.
 
