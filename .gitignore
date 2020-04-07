@@ -1,4 +1,8 @@
-public/
+# IDEs
 .idea/
-resources/_gen/
+# Hugo
+# resources/_gen/
+resources/
+public/
+# project:
 tmp/
