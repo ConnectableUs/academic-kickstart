@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yarko Tymciurak
+title: Yarko Tymciurak
 
 # Username (this should match the folder name)
 authors:
